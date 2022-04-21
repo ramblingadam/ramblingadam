@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Adam, a software engineer at 100Devs! 👨‍💻
+### 👋 Hi! I'm Adam, a software engineer at 100Devs! 👨‍💻
 
 - 🏗️ I build HTML5 websites and web apps ☄️
 - 🥾 I enjoy 20-mile day hikes and classic video games 🎮
