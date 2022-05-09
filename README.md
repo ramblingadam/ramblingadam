@@ -1,9 +1,10 @@
 
-<h1 align="center">👋 Hi, I'm Adam!</h1>
+
 
 <p align="center"><img align="center" src="https://user-images.githubusercontent.com/96756923/167184264-7fb3979b-8b11-4dd7-bccd-7d2b8fdf9190.png" alt="Adam's Logo" /></p>
+<h1 align="center">👋 Hi, I'm Adam!</h1>
 
-<h3 align="center">👨‍💻 I'm a software engineer, and I love creating JOY with code! 😸</h3>
+<h3 align="center">👨‍💻 I'm a software engineer, and I create JOY with code! 😸</h3>
 
 <p align="center">🏗️ I build HTML5 websites and web apps ☄️</p>
 
