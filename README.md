@@ -1,7 +1,4 @@
-
-
-
-<p align="center"><img align="center" src="https://user-images.githubusercontent.com/96756923/167769229-8277ab3e-c773-4d2d-a6f9-bb546f078696.png" /></p>
+<p align="center"><img align="center" src="https://user-images.githubusercontent.com/96756923/168141684-73e16b1b-34ff-41b3-a784-9a3c9cd67829.png" /></p>
 <h1 align="center">👋 Hi, I'm Adam!</h1>
 
 <h3 align="center">👨‍💻 I'm a software engineer, and I create JOY with code! 😸</h3>
