@@ -40,7 +40,7 @@
     <td width="50%" v-align="top">
       <h3 dir="auto" align="center">Animal Crossing Database Browser</h3>
       <br>
-       <a href="https://acnh-database.netlify.app"><img src="https://user-images.githubusercontent.com/96756923/167181894-17ab1963-4ffa-4dc4-8248-1d02ea2e343d.png"></a>
+       <a href="https://acnh-database.netlify.app"><img src="https://user-images.githubusercontent.com/96756923/170849487-39d5a25f-0ad3-4494-a325-d4502610b54e.gif"></a>
       <p align="center">
         <a href="https://github.com/ramblingadam/acnh"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://acnh-database.netlify.app"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
       </p>
@@ -49,14 +49,33 @@
     <td width="50%" v-align="top">
       <h3 dir="auto" align="center">X-Wing VS TIE Fighter</h3>
       <br>
-      <a href="https://ramblingadam.github.io/tic-tac-starwars/"><img src="https://user-images.githubusercontent.com/96756923/165388319-19467a3d-6541-4f22-9b69-bc89159f11fc.png"></a>
+      <a href="https://ramblingadam.github.io/tic-tac-starwars/"><img src="https://user-images.githubusercontent.com/96756923/170849366-e1b8d33b-6236-46f1-8dd9-b38fd2c27380.gif"></a>
       <p align="center">
         <a href="https://github.com/ramblingadam/tic-tac-starwars"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://ramblingadam.github.io/tic-tac-starwars/"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
       </p>
       <p>An action-packed space-themed two-player strategy game from a galaxy far, far away- playable right in your browser.</p>
-    </td>
-
+    </td>  
+  </tr>
     
+  <tr width="100%">
+    <td width="50%" v-align="top">
+      <h3 dir="auto" align="center">NASA Astronomy Photo Browser</h3>
+      <br>
+       <a href="https://ramblingadam.github.io/nasapod/"><img src="https://user-images.githubusercontent.com/96756923/170848850-67f872fc-b92e-438b-add6-47d83673d3c9.gif"></a>
+      <p align="center">
+        <a href="https://github.com/ramblingadam/nasapod"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://ramblingadam.github.io/nasapod/"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
+      </p>
+      <p>A responsive web app with a delightfully themed UI which allows the user to browse NASA's Astronomy Photo of the Day archive. Supports both videos and photos.</p>
+    </td>
+    <td width="50%" v-align="top">
+      <h3 dir="auto" align="center">Studio Ghibli Film Browser</h3>
+      <br>
+      <a href="https://ramblingadam.github.io/ghibli-browser/"><img src="https://user-images.githubusercontent.com/96756923/170849169-9e63328f-2f3d-463f-ad7a-cee2f32aee50.gif"></a>
+      <p align="center">
+        <a href="https://github.com/ramblingadam/ghibli-browser"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://ramblingadam.github.io/ghibli-browser/"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
+      </p>
+      <p>A responsive web app for browsing the film catalog of the popular Japanese animation company Studio Ghibli.</p>
+    </td>  
   </tr>
     
 
