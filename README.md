@@ -38,7 +38,7 @@
   <tbody>
   <tr width="100%">
     <td width="50%" v-align="top">
-      <h3 dir="auto" align="center">Animal Crossing Database Browser</h3>
+      <h3 dir="auto" align="center">Animal Crossing Database</h3>
       <br>
        <a href="https://acnh-database.netlify.app"><img src="https://user-images.githubusercontent.com/96756923/170849487-39d5a25f-0ad3-4494-a325-d4502610b54e.gif"></a>
       <p align="center">
