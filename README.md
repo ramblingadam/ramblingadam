@@ -44,17 +44,18 @@
       <p align="center">
         <a href="https://github.com/ramblingadam/magic-task-timer"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://magictasktimer.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
       </p>
-      <p>Take control of how you spend your time by becoming aware of how you use it.</p>
+      <p align="center"><strong>Tech: React, JSX, CSS, Javascript</strong></p>
       <p>Magic Task Timer makes it easy to visualize the time you spend on things, empowering you to make better time management decisions while providing a simple and beautiful way to track the amount of time you've spent working on any task, project, or goal you can imagine.</p>
     </td>
     <td width="50%" v-align="top">
       <h3 dir="auto" align="center">Animal Crossing Database</h3>
       <br>
-       <a href="https://acnh-database.netlify.app"><img src="https://user-images.githubusercontent.com/96756923/170849487-39d5a25f-0ad3-4494-a325-d4502610b54e.gif"></a>
+       <a href="https://acnh-database.netlify.app"><img src="https://user-images.githubusercontent.com/96756923/186585151-696716fa-f920-46e4-91ec-e5e5d100e491.gif"></a>
       <p align="center">
         <a href="https://github.com/ramblingadam/acnh"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://acnh-database.netlify.app" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
       </p>
-      <p>A beautiful, responsive web app designed to assist and delight players of the Nintendo game Animal Crossing: New Horizons.</p>
+      <p align="center"><strong>Tech: HTML, CSS, Javascript</strong></p>
+      <p>A beautiful, responsive web app designed to assist and delight players of the wildly popular Nintendo game Animal Crossing: New Horizons. The app is packed full of surprises which are sure to bring a smile to anybody's face!</p>
     </td>
   </tr>
   <tr width="100%">
@@ -65,16 +66,18 @@
       <p align="center">
         <a href="https://github.com/ramblingadam/tic-tac-starwars"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://ramblingadam.github.io/tic-tac-starwars/ target="_blank""><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
       </p>
-      <p>An action-packed space-themed two-player strategy game from a galaxy far, far away- playable right in your browser.</p>
+      <p align="center"><strong>Tech: HTML, CSS, Javascript</strong></p>
+      <p>A dazzling space-themed two-player strategy game from a galaxy far, far away- playable right in your browser. Optimized for mobile! Grab a friend and pass the phone back and forth for some out-of-this-world hotseat action! And may the force be with you, always.</p>
     </td> 
     <td width="50%" v-align="top">
-      <h3 dir="auto" align="center">NASA Astronomy Photo Browser</h3>
+      <h3 dir="auto" align="center">The Universe Console</h3>
       <br>
        <a href="https://ramblingadam.github.io/nasapod/"><img src="https://user-images.githubusercontent.com/96756923/170848850-67f872fc-b92e-438b-add6-47d83673d3c9.gif"></a>
       <p align="center">
         <a href="https://github.com/ramblingadam/nasapod"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://ramblingadam.github.io/nasapod/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
       </p>
-      <p>A responsive web app with a delightfully themed UI which allows the user to browse NASA's Astronomy Photo of the Day archive. Supports both videos and photos.</p>
+      <p align="center"><strong>Tech: HTML, CSS, Javascript</strong></p>
+      <p>A responsive web app with a retro sci-fi themed UI which allows the user to browse a vast library of astronomy photos and videos, along with detailed descriptions of each image to provide context for the wonder. New content available every day. Powered by NASA.</p>
     </td> 
   </tr>
   <tr width="100%">
@@ -85,16 +88,18 @@
       <p align="center">
         <a href="https://github.com/ramblingadam/crab-facts"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://crab-facts-ra.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
       </p>
-      <p>A full-stack web application built to crowdsource the hottest, coolest facts about everybody's favorite crustacean- the noble Crab.</p>
+      <p align="center"><strong>Tech: Node.js, MongoDB, Express, HTML, CSS, Javascript</strong></p>
+      <p>A full-stack, full-crab web crablication built to crabsource the hottest, coolest facts about everybody's favorite crabtastic crabulous crustacean- the noble, indominatable Crab.</p>
     </td>  
     <td width="50%" v-align="top">
-      <h3 dir="auto" align="center">Studio Ghibli Film Browser</h3>
+      <h3 dir="auto" align="center">Discover Ghibli</h3>
       <br>
       <a href="https://ramblingadam.github.io/ghibli-browser/"><img src="https://user-images.githubusercontent.com/96756923/170849169-9e63328f-2f3d-463f-ad7a-cee2f32aee50.gif"></a>
       <p align="center">
         <a href="https://github.com/ramblingadam/ghibli-browser"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://ramblingadam.github.io/ghibli-browser/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
       </p>
-      <p>A responsive web app for browsing the film catalog of the popular Japanese animation company Studio Ghibli.</p>
+      <p align="center"><strong>Tech: HTML, CSS, Javascript</strong></p>
+      <p>A responsive web app which helps new fans discover the full breadth of Studio Ghibli's incredible film catalog. Sure, everybody's seen Spirited Away, but have you ever heard of Porco Rosso, or Pom Poko?</p>
     </td>  
   </tr>
   </tbody>
