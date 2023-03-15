@@ -38,6 +38,23 @@
 <table width="100%">
   <tbody>
   <tr width="100%">
+    <td width="100%" colspan="2" v-align="top">
+      <h3 dir="auto" align="center">Networky</h3>
+      <br>
+      <p align="center">
+       <a href="https://networky.io/" target="_blank">
+<!--          <img src="https://user-images.githubusercontent.com/96756923/224581524-81909820-9876-4067-a719-c7ae7e8820fd.gif"> -->
+         <img src="https://user-images.githubusercontent.com/96756923/224582092-c102d165-04b0-447a-ae4b-c45cf10e651f.gif">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ramblingadam/networky-public"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://networky.io/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
+      </p>
+      <p align="center"><strong>Tech: React, Redux, Node, Express, MongoDB, Javascript, CSS</strong></p>
+      <p>Networky helps you build and maintain strong relationships with everybody you meet! Through spaced repetition of social check-ins at customizable intervals, this beautiful full-stack web application facilitates the process of turning acquaintances into friends over time, helping you stay relevant in your contacts' lives.</p>
+    </td>
+  </tr>
+  <tr width="100%">
     <td width="50%" v-align="top">
       <h3 dir="auto" align="center">Magic Task Timer</h3>
       <br>
