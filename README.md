@@ -50,7 +50,7 @@
       <p align="center">
         <a href="https://github.com/ramblingadam/networky-public"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://networky.io/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
       </p>
-      <p align="center"><strong>Tech: React, Redux, Node, Express, MongoDB</strong></p>
+      <p align="center"><strong>Tech: React, Redux, Node, Express, MongoDB, Javascript, CSS</strong></p>
       <p>Networky helps you build and maintain strong relationships with everybody you meet! Through spaced repetition of social check-ins at customizable intervals, this beautiful full-stack web application facilitates the process of turning acquaintances into friends over time, helping you stay relevant in your contacts' lives.</p>
     </td>
   </tr>
