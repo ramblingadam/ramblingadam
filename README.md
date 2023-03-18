@@ -80,9 +80,9 @@
     <td width="50%" v-align="top">
       <h3 dir="auto" align="center">X-Wing VS TIE Fighter</h3>
       <br>
-      <a href="https://ramblingadam.github.io/tic-tac-starwars/"><img src="https://user-images.githubusercontent.com/96756923/170849366-e1b8d33b-6236-46f1-8dd9-b38fd2c27380.gif"></a>
+      <a href="https://ramblingadam.github.io/tic-tac-starwars/" target="_blank"><img src="https://user-images.githubusercontent.com/96756923/170849366-e1b8d33b-6236-46f1-8dd9-b38fd2c27380.gif"></a>
       <p align="center">
-        <a href="https://github.com/ramblingadam/tic-tac-starwars"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://ramblingadam.github.io/tic-tac-starwars/ target="_blank""><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
+        <a href="https://github.com/ramblingadam/tic-tac-starwars"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://ramblingadam.github.io/tic-tac-starwars/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
       </p>
       <p align="center"><strong>Tech: HTML, CSS, Javascript</strong></p>
       <p>A dazzling space-themed two-player strategy game from a galaxy far, far away- playable right in your browser. Optimized for mobile! Grab a friend and pass the phone back and forth for some out-of-this-world hotseat action! And may the force be with you, always.</p>
