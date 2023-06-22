@@ -55,7 +55,7 @@
         <a href="https://github.com/ramblingadam/networky-public"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://networky.io/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
       </p>
       <p align="center"><strong>Tech: React, Redux, Node, Express, MongoDB, Javascript, CSS</strong></p>
-      <p>Networky helps you build and maintain strong relationships with everybody you meet! Through spaced repetition of social check-ins at customizable intervals, this beautiful full-stack web application facilitates the process of turning acquaintances into friends over time, helping you stay relevant in your contacts' lives.</p>
+      <p>Networky helps you build and maintain strong relationships with everybody you meet! Through spaced repetition of social check-ins at customizable intervals, this beautiful full-stack web application facilitates the process of turning acquaintances into friends over time, helping you stay relevant in your contacts' lives. Networky is in active development.</p>
     </td>
   </tr>
   <tr width="100%">
@@ -77,7 +77,7 @@
         <a href="https://github.com/ramblingadam/dsamazing"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://dsamazing.netlify.app" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
       </p>
       <p align="center"><strong>Tech: Next.js, TypeScript, React, Tailwind</strong></p>
-      <p>An educational tool which helps computer science students acquaint themselves with the construction and methods of important data structures. With a crisp, engaging UI that feels great to use, you'll completely forget that you're learning!</p>
+      <p>An educational tool which helps computer science students acquaint themselves with the construction and methods of important data structures. You'll completely forget that you're learning as every interaction with the slick interface animates and visualizes data structures into existence! Development in progress.</p>
     </td>
   </tr>
   <tr width="100%">
