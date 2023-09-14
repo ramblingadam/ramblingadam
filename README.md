@@ -35,10 +35,7 @@
   <td width="50"><p align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="50" alt="Figma" /></a><br />Figma</p></td>
     <td width="50"><p align="center"><a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://github.com/ramblingadam/ramblingadam/assets/96756923/25eef20b-418b-419b-a798-7fd70407a326" height="50" alt="SQL" /></a><br />SQL</p></td>
 </tr>
-
-
-
-  </table>
+</table>
   
 
 <h2 align="center">Connect with Me</h2>
