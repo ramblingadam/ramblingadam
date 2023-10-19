@@ -1,8 +1,8 @@
 <p align="center"><img align="center" src="https://user-images.githubusercontent.com/96756923/186596771-c21046de-5064-4f48-a271-d2f9e01be0df.png" /></p>
 
-<h1 align="center">👋 Hi, I'm Adam!</h1>
+<h1 align="center"><a href="#">&#x200B;</a>👋 Hi, I'm Adam!</h1>
 
-<h3 align="center">👨‍💻 I'm a software engineer, and I create JOY with code! 😸</h3>
+<h3 align="center"><a href="#">&#x200B;</a>👨‍💻 I'm a software engineer, and I create JOY with code! 😸</h3>
 
 <p align="center">🏗️ I build beautiful, accessible applications and websties ☄️</p>
 
@@ -11,7 +11,7 @@
 <p align="center">💬 Ask me about my 5 year road trip across the United States! 🏞️</p>
 
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center"><a href="#">&#x200B;</a>Languages and Tools</h2>
 <p align="center">
   <table width="100%" align="center" border="0">
 <tr>
@@ -38,7 +38,7 @@
 </table>
   
 
-<h2 align="center">Connect with Me</h2>
+<h2 align="center"><a href="#">&#x200B;</a>Connect with Me</h2>
 <p align="center">
 <a href="https://twitter.com/ramblingadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramblingadam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adam-morsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-morsa" height="30" width="40" /></a>
@@ -46,13 +46,13 @@
 </p>
 
 
-<h2 align="center">Recent Projects</h2>
+<h2 align="center"><a href="#">&#x200B;</a>Recent Projects</h2>
 
 <table width="100%">
   <tbody>
   <tr width="100%">
     <td width="100%" colspan="2" v-align="top">
-      <h3 dir="auto" align="center">Networky</h3>
+      <h3 dir="auto" align="center"><a href="#">&#x200B;</a>Networky</h3>
       <br>
       <p align="center">
        <a href="https://networky.io/" target="_blank">
@@ -69,7 +69,7 @@
   </tr>
   <tr width="100%">
     <td width="50%" v-align="top">
-      <h3 dir="auto" align="center">Magic Task Timer</h3>
+      <h3 dir="auto" align="center"><a href="#">&#x200B;</a>Magic Task Timer</h3>
       <br>
        <a href="https://magictasktimer.netlify.app/" target="_blank"><img src="https://user-images.githubusercontent.com/96756923/186568888-6bc191ca-93d1-46ce-a5f3-281e2b566c8a.gif"></a>
       <p align="center">
@@ -79,7 +79,7 @@
       <p>Magic Task Timer makes it easy to visualize the time you spend on things, empowering you to make better time management decisions while providing a simple and beautiful way to track the amount of time you've spent working on any task, project, or goal you can imagine.</p>
     </td>
     <td width="50%" v-align="top">
-      <h3 dir="auto" align="center">DSAmazing</h3>
+      <h3 dir="auto" align="center"><a href="#">&#x200B;</a>DSAmazing</h3>
       <br>
        <a href="https://dsamazing.netlify.app"><img src="https://user-images.githubusercontent.com/96756923/247191543-010bc9fb-3b2f-49b6-9504-6ca2fee7ef1e.gif"></a>
       <p align="center">
@@ -91,7 +91,7 @@
   </tr>
   <tr width="100%">
     <td width="50%" v-align="top">
-      <h3 dir="auto" align="center">Animal Crossing Database</h3>
+      <h3 dir="auto" align="center"><a href="#">&#x200B;</a>Animal Crossing Database</h3>
       <br>
        <a href="https://acnh-database.netlify.app"><img src="https://user-images.githubusercontent.com/96756923/186585151-696716fa-f920-46e4-91ec-e5e5d100e491.gif"></a>
       <p align="center">
@@ -101,7 +101,7 @@
       <p>A beautiful, responsive web app designed to assist and delight players of the wildly popular Nintendo game Animal Crossing: New Horizons. The app is packed full of surprises which are sure to bring a smile to anybody's face!</p>
     </td> 
     <td width="50%" v-align="top">
-      <h3 dir="auto" align="center">The Universe Console</h3>
+      <h3 dir="auto" align="center"><a href="#">&#x200B;</a>The Universe Console</h3>
       <br>
        <a href="https://ramblingadam.github.io/nasapod/"><img src="https://user-images.githubusercontent.com/96756923/170848850-67f872fc-b92e-438b-add6-47d83673d3c9.gif"></a>
       <p align="center">
@@ -113,7 +113,7 @@
   </tr>
   <tr width="100%">
     <td width="50%" v-align="top">
-      <h3 dir="auto" align="center">Crab Facts</h3>
+      <h3 dir="auto" align="center"><a href="#">&#x200B;</a>Crab Facts</h3>
       <br>
       <a href="https://crab-facts-ra.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/96756923/186569311-85237363-4e92-4ab8-87d7-dd669b829801.gif"></a>
       <p align="center">
@@ -123,7 +123,7 @@
       <p>A full-stack, full-crab web crablication built to crabsource the hottest, coolest facts about everybody's favorite crabtastic crabulous crustacean- the noble, indominatable Crab.</p>
     </td>  
     <td width="50%" v-align="top">
-      <h3 dir="auto" align="center">X-Wing VS TIE Fighter</h3>
+      <h3 dir="auto" align="center"><a href="#">&#x200B;</a>X-Wing VS TIE Fighter</h3>
       <br>
       <a href="https://ramblingadam.github.io/tic-tac-starwars/" target="_blank"><img src="https://user-images.githubusercontent.com/96756923/170849366-e1b8d33b-6236-46f1-8dd9-b38fd2c27380.gif"></a>
       <p align="center">
@@ -135,7 +135,7 @@
   </tr>
   <tr width="100%">
     <td width="50%" v-align="top">
-     <h3 dir="auto" align="center">Discover Ghibli</h3>
+     <h3 dir="auto" align="center"><a href="#">&#x200B;</a>Discover Ghibli</h3>
       <br>
       <a href="https://ramblingadam.github.io/ghibli-browser/"><img src="https://user-images.githubusercontent.com/96756923/170849169-9e63328f-2f3d-463f-ad7a-cee2f32aee50.gif"></a>
       <p align="center">
@@ -152,7 +152,7 @@
 </table>
 
          
-<h2 align="center">Stats</h2>
+<h2 align="center"><a href="#">&#x200B;</a>Stats</h2>
 <a href="http://www.github.com/ramblingadam"><img src="https://github-readme-stats.vercel.app/api?username=ramblingadam&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=6366f1&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" width="50%" alt="ramblingadam's GitHub stats" /></a><a href="http://www.github.com/ramblingadam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ramblingadam&stroke=6366f1&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=6366f1&currStreakLabel=14b8a6&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" width="50%"/></a>
 
 <p align="center"><a href="https://www.codewars.com/users/ramblingadam/" target="_blank"><img src="https://www.codewars.com/users/ramblingadam/badges/large"></a></p>
