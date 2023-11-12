@@ -81,7 +81,7 @@
     <td width="50%" v-align="top">
       <h3 dir="auto" align="center"><a href="#">&#x200B;</a>DSAmazing</h3>
       <br>
-       <a href="https://dsamazing.netlify.app"><img src="https://user-images.githubusercontent.com/96756923/247191543-010bc9fb-3b2f-49b6-9504-6ca2fee7ef1e.gif"></a>
+       <a href="https://dsamazing.netlify.app" target="_blank"><img src="https://user-images.githubusercontent.com/96756923/247191543-010bc9fb-3b2f-49b6-9504-6ca2fee7ef1e.gif"></a>
       <p align="center">
         <a href="https://github.com/ramblingadam/dsamazing"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://dsamazing.netlify.app" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
       </p>
@@ -93,7 +93,7 @@
     <td width="50%" v-align="top">
       <h3 dir="auto" align="center"><a href="#">&#x200B;</a>Animal Crossing Database</h3>
       <br>
-       <a href="https://acnh-database.netlify.app"><img src="https://user-images.githubusercontent.com/96756923/186585151-696716fa-f920-46e4-91ec-e5e5d100e491.gif"></a>
+       <a href="https://acnh-database.netlify.app" target="_blank"><img src="https://user-images.githubusercontent.com/96756923/186585151-696716fa-f920-46e4-91ec-e5e5d100e491.gif"></a>
       <p align="center">
         <a href="https://github.com/ramblingadam/acnh"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://acnh-database.netlify.app" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
       </p>
@@ -101,26 +101,26 @@
       <p>A beautiful, responsive web app designed to assist and delight players of the wildly popular Nintendo game Animal Crossing: New Horizons. The app is packed full of surprises which are sure to bring a smile to anybody's face!</p>
     </td> 
     <td width="50%" v-align="top">
+      <h3 dir="auto" align="center"><a href="#">&#x200B;</a>Memoria</h3>
+      <br>
+       <a href="https://memoria-memory-game.netlify.app" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/96756923/282329298-db2bea10-0da6-4c4c-b828-732589b64e91.gif"></a>
+      <p align="center">
+        <a href="https://github.com/ramblingadam/memoria-game"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://memoria-memory-game.netlify.app" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
+      </p>
+      <p align="center"><strong>Tech: React, TypeScript, CSS</strong></p>
+      <p>A simple memory game built during a timed technical interview. A simple MVP was completed during the interview- but I was having so much fun with it that I kept going after the interview was over: adding deck selection, randomized images, local high scores, and snazzy custom animations.</p>
+    </td> 
+  </tr>
+  <tr width="100%">
+    <td width="50%" v-align="top">
       <h3 dir="auto" align="center"><a href="#">&#x200B;</a>The Universe Console</h3>
       <br>
-       <a href="https://ramblingadam.github.io/nasapod/"><img src="https://user-images.githubusercontent.com/96756923/170848850-67f872fc-b92e-438b-add6-47d83673d3c9.gif"></a>
+       <a href="https://ramblingadam.github.io/nasapod/" target="_blank"><img src="https://user-images.githubusercontent.com/96756923/170848850-67f872fc-b92e-438b-add6-47d83673d3c9.gif"></a>
       <p align="center">
         <a href="https://github.com/ramblingadam/nasapod"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://ramblingadam.github.io/nasapod/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
       </p>
       <p align="center"><strong>Tech: HTML, CSS, Javascript</strong></p>
       <p>A responsive web app with a retro sci-fi themed UI which allows the user to browse a vast library of astronomy photos and videos, along with detailed descriptions of each image to provide context for the wonder. New content available every day. Powered by NASA.</p>
-    </td> 
-  </tr>
-  <tr width="100%">
-    <td width="50%" v-align="top">
-      <h3 dir="auto" align="center"><a href="#">&#x200B;</a>Crab Facts</h3>
-      <br>
-      <a href="https://crab-facts-ra.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/96756923/186569311-85237363-4e92-4ab8-87d7-dd669b829801.gif"></a>
-      <p align="center">
-        <a href="https://github.com/ramblingadam/crab-facts"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://crab-facts-ra.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
-      </p>
-      <p align="center"><strong>Tech: Node.js, MongoDB, Express, HTML, CSS, Javascript</strong></p>
-      <p>A full-stack, full-crab web crablication built to crabsource the hottest, coolest facts about everybody's favorite crabtastic crabulous crustacean- the noble, indominatable Crab.</p>
     </td>  
     <td width="50%" v-align="top">
       <h3 dir="auto" align="center"><a href="#">&#x200B;</a>X-Wing VS TIE Fighter</h3>
@@ -137,7 +137,7 @@
     <td width="50%" v-align="top">
      <h3 dir="auto" align="center"><a href="#">&#x200B;</a>Discover Ghibli</h3>
       <br>
-      <a href="https://ramblingadam.github.io/ghibli-browser/"><img src="https://user-images.githubusercontent.com/96756923/170849169-9e63328f-2f3d-463f-ad7a-cee2f32aee50.gif"></a>
+      <a href="https://ramblingadam.github.io/ghibli-browser/" target="_blank"><img src="https://user-images.githubusercontent.com/96756923/170849169-9e63328f-2f3d-463f-ad7a-cee2f32aee50.gif"></a>
       <p align="center">
         <a href="https://github.com/ramblingadam/ghibli-browser"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://ramblingadam.github.io/ghibli-browser/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
       </p>
@@ -145,7 +145,14 @@
       <p>A responsive web app which helps new fans discover the full breadth of Studio Ghibli's incredible film catalog. Sure, everybody's seen Spirited Away, but have you ever heard of Porco Rosso, or Pom Poko?</p>
     </td>  
     <td width="50%" v-align="top">
-      &nbsp;
+      <h3 dir="auto" align="center"><a href="#">&#x200B;</a>Crab Facts</h3>
+      <br>
+      <a href="https://crab-facts-ra.herokuapp.com/" target="_blank"><img src="https://user-images.githubusercontent.com/96756923/186569311-85237363-4e92-4ab8-87d7-dd669b829801.gif"></a>
+      <p align="center">
+        <a href="https://github.com/ramblingadam/crab-facts"><img src="https://img.shields.io/badge/CODE-644694?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a><a href="https://crab-facts-ra.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/LIVE SITE-007d92?style=for-the-badge" style="max-width: 100%;"></a>
+      </p>
+      <p align="center"><strong>Tech: Node.js, MongoDB, Express, HTML, CSS, Javascript</strong></p>
+      <p>A full-stack, full-crab web crablication built to crabsource the hottest, coolest facts about everybody's favorite crabtastic crabulous crustacean- the noble, indominatable Crab.</p> 
     </td>  
   </tr>
   </tbody>
